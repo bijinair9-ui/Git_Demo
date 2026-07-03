@@ -1,0 +1,1 @@
+print("Marks of the student:")
